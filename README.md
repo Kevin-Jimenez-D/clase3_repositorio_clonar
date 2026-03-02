@@ -15,3 +15,13 @@
 - Agregue esta documentacion
 
 - Hago commit de esa documentacion hecha
+
+- Se envio del repositorio local al remoto
+
+- Luego en otra carpeta diferente que no haya inicializado git, se clona
+
+- Se abren la carpeta recien clonada
+
+- Se agrego otra modificacion en el README
+
+- Se hizo commit 
